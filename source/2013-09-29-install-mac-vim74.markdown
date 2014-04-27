@@ -1,6 +1,7 @@
 ---
 title: install-mac-vim74
 date: 2013-09-29 01:29:31 +0900
+tags: vim
 ---
 
 Vim7.4 が出ているのでインストールしました。  

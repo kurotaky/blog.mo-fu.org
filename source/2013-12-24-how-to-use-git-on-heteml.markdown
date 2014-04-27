@@ -1,6 +1,7 @@
 ---
 title: hetemlレンタルサーバーでgitを使う
 date: 2013-12-24 08:45:47 +0900
+tags: git, heteml
 ---
 
 ## gitの初期設定

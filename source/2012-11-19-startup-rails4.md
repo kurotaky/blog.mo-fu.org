@@ -1,6 +1,7 @@
 ---
 title: rails4(edge)を動かしてみた。
 date: 2012-11-19 03:47:26 +0900
+tags: rails4
 ---
 
 rails4(edge)をlocal環境で動かしてみたのでメモ(2012/11/18)。

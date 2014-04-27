@@ -1,6 +1,7 @@
 ---
 title: SqaleからAmazonS3にDBをバックアップする
 date: 2014-01-05 18:34:38 +0900
+tags: s3, sqale
 ---
 
 Sqale で運用しているアプリケーションのDBのdumpファイルを

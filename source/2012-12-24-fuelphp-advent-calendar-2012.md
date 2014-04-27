@@ -1,6 +1,7 @@
 ---
 title: FuelPHPで簡単なWebアプリケーションを作ってみる
 date: 2012-12-24 11:50:26 +0900
+tags: fuelphp, php
 ---
 
 [FuelPHP AdventCalendar 2012](http://atnd.org/events/33753)の記事です。
